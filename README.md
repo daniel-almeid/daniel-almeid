@@ -21,6 +21,10 @@ Programador Front End Jr
   <img align="center" height="30" width="" alt="c-icon" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
 
   <img align="center" height="30" width="" alt="c-icon" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  
+  <img align="center" height="30" width="" alt="c-icon" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+          
 </div><br/>
 
 ## Redes sociais
