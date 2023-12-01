@@ -24,6 +24,8 @@ Programador Front End Jr
   
   <img align="center" height="30" width="" alt="c-icon" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 
+  <img align="center" height="30" width="" alt="c-icon" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+
           
 </div><br/>
 
