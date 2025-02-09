@@ -22,7 +22,6 @@ Programador Front End Jr
 
   <img align="center" height="30" width="" alt="typescript-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   
-  <img align="center" height="30" width="" alt="typescript-icon" src="img.shields.io/badge/Cypress-007ACC?style=for-the-badge&logo=cypress&logoColor=white">
 
 
           
