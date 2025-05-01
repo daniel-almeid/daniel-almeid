@@ -21,6 +21,12 @@ Programador Front End Jr
   <img align="center" height="30" width="" alt="c-icon" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
   <img align="center" height="30" width="" alt="typescript-icon" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+
+  <img align="center" height="30" alt="cypress-icon" src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white">
+
+  <img align="center" height="30" alt="svelte-icon" src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
+
+  <img align="center" height="30" alt="playwright-icon" src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white">
   
 
 
