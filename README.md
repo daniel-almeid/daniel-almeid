@@ -1,11 +1,5 @@
 ## Olá, eu sou o Daniel Almeida
-Programador Front End Jr
-
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=daniel-almeid&show_icons=true&theme=dark)
-  
-<br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-almeid)](https://github.com/daniel-almeid/github-readme-stats)
+Analista de Qualidade | QA
 
 
 ## Minhas linguagens
